@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    background-color:rgb(220, 213, 213);
+    color: rgb(42, 37, 37)
+
+}
+ul {
+    list-style: none;
+}
+h1 {
+    size: 20px;
+}
